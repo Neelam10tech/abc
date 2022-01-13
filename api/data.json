@@ -1,0 +1,121 @@
+{
+  "vendor": [
+    {
+      "name": "neelam",
+      "email": "n@gmail.com",
+      "password": "123",
+      "mobile": "9999999999",
+      "id": 1
+    }
+  ],
+  "product": [
+    {
+      "id": 1,
+      "name": "Apple",
+      "price": 300,
+      "details": "Good Imported Apple",
+      "photo": "1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Mango",
+      "price": 100,
+      "details": "Good indian Mango",
+      "photo": "2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Banana",
+      "price": 40,
+      "details": "Good Yellow Banana",
+      "photo": "3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Onion",
+      "price": 35,
+      "details": "Costly Onion for you",
+      "photo": "4.jpg"
+    },
+    {
+      "name": "laptop ",
+      "price": "500",
+      "photo": "https://www.lenovo.com/in/en/laptops/thinkpad/thinkpad-l-series/ThinkPad-L14-G2/p/20X2CTO1WWENIN0good lap",
+      "details": "",
+      "id": 11
+    },
+    {
+      "name": "laptop",
+      "price": "50000",
+      "photo": "https://www.google.com/aclk?sa=l&ai=DChcSEwil8o3rk6H1AhXDq5YKHQJiA8AYABAHGgJ0bA&sig=AOD64_2qE7IJIGxpx4XC8e1m69_ff4JoBA&adurl&ctype=5&ved=2ahUKEwjd2f_qk6H1AhWkKrcAHVQ0AxYQvhd6BAgBEHI",
+      "details": "",
+      "id": 12
+    },
+    {
+      "name": "lenevo laptop",
+      "price": "5000",
+      "photo": "https://sp.yimg.com/ib/th?id=OPA.edR9SJUAeJaIPw474C474&o=5&pid=21.1&w=174&h=174",
+      "details": "",
+      "id": 13
+    }
+  ],
+  "order": [
+    {
+      "customername": "",
+      "mobile": "",
+      "email": "",
+      "address": "",
+      "product": [
+        {
+          "id": 2,
+          "name": "Mango",
+          "price": 100,
+          "details": "Good indian Mango",
+          "photo": "2.jpg"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "customername": "",
+      "mobile": "",
+      "email": "",
+      "address": "",
+      "product": [
+        {
+          "id": 2,
+          "name": "Mango",
+          "price": 100,
+          "details": "Good indian Mango",
+          "photo": "2.jpg"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "customername": "Neelam Mishra",
+      "mobile": "08874915663",
+      "email": "neelammishra2030@gmail.com",
+      "address": "Gobrai khas ,post-dhanauti khurd deoria",
+      "product": [
+        {
+          "id": 2,
+          "name": "Mango",
+          "price": 100,
+          "details": "Good indian Mango",
+          "photo": "2.jpg"
+        }
+      ],
+      "id": 3
+    }
+  ],
+  "cart": [
+    {
+      "id": 2,
+      "name": "Mango",
+      "price": 100,
+      "details": "Good indian Mango",
+      "photo": "2.jpg"
+    }
+  ]
+}
